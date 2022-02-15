@@ -30,3 +30,10 @@
 .block__content_1 {
     background-color: #18b5a4;
 }
+
+/* version 3*/
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
