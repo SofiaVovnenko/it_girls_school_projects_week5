@@ -1,0 +1,16 @@
+.block {
+    text-align: center;
+}
+
+.block__row {
+    border: 10px solid #ece89d;
+    display: inline-flex;
+}
+
+.block__element {
+    border: 5px solid #5e5373;
+}
+
+.block__content {
+    background-color: #18b5a4;
+}
