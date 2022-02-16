@@ -1,1 +1,1 @@
-Positioning Training Project
+Training Project
