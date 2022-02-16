@@ -1,0 +1,26 @@
+.header_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(216, 230, 34, 0.541);
+}
+
+main.main_cont {
+    display: inline-flex;
+    flex-direction: column;
+    background-color: rgba(129, 230, 34, 0.541);
+}
+
+.main_box_1 {
+    flex-grow: 2
+}
+
+.main_box_2 {}
+
+.main_box_3 {}
+
+div {
+    padding: 50px;
+    background-color: rgba(47, 85, 12, 0.541);
+    margin: 20px;
+}
