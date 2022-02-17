@@ -32,7 +32,7 @@
     align-self: flex-end;
     flex-grow: 1;
     background-color: rgb(121, 161, 98);
-    height: auto;
+    justify-content: center;
 }
 
 .header,
