@@ -29,7 +29,7 @@ body {
 }
 
 .col {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
 }
 
@@ -50,6 +50,7 @@ h2 {
 .col_article_1 {
     background-color: rgb(219, 197, 125);
     height: 10%;
+    justify-content: center;
 }
 
 .col_article_1:first-child {
